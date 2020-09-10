@@ -1,2 +1,2 @@
 # gcpIoTCoreFunction
-Cloud Functions to manipulate the IoT Core registry
+Cloud Function to manipulate the IoT Core registry
